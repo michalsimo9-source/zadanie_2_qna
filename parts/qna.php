@@ -8,15 +8,9 @@
     </section>
     <section class="container">
     <?php
-    include "otazky.php";
-
-    foreach ($otazky as $otazka => $odpoved) {
-        echo "<div class='qa-item' style='margin-bottom: 20px;'>";
-        echo "<h3>" . $otazka . "</h3>";
-        echo "<p>" . $odpoved . "</p>";
-        echo "</div>";
-    }
-    ?>
+      include_once "functions.php";
+      insertQnA();
+        ?>
 </section>
     <section class="container">
       <div class="row">
