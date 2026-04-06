@@ -1,5 +1,5 @@
 <?php 
-require_once "parts/header.php"; 
+include_once "parts/header.php"; 
 ?>
 
     <main>
@@ -35,4 +35,4 @@ require_once "parts/header.php";
       </section>
     </main>
 
-<?php require_once "parts/footer.php"; ?>
+<?php include_once "parts/footer.php"; ?>
