@@ -1,4 +1,4 @@
-<?php require_once "parts/header.php"; ?>
+<?php include_once "parts/header.php"; ?>
 
     <main>
       <section class="banner">
@@ -16,4 +16,4 @@
 
     </main>
     
-<?php require_once "parts/footer.php"; ?>
+<?php include_once "parts/footer.php"; ?>

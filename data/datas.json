@@ -1,4 +1,11 @@
 {
+  "stranky": {
+    "index": ["css/slider.css"],
+    "portfolio": ["css/portfolio.css", "css/banner.css"],
+    "qna": ["css/accordion.css", "css/banner.css"],
+    "kontakt": ["css/form.css", "css/banner.css"],
+    "thankyou": ["css/banner.css"]
+  },
   "otazky": [
     "Aké sú vaše skúsenosti s PHP?",
     "Aký je váš obľúbený programovací jazyk?",

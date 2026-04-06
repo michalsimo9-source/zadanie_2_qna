@@ -12,22 +12,3 @@
     <link rel="stylesheet" href="css/banner.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
-    <header class="container main-header">
-        <div>
-          <a href="index.html">
-            <img src="img/logo.png" height="40">
-          </a>
-        </div>
-      <nav class="main-nav">
-        <ul class="main-menu" id="main-menu">
-            <li><a href="index.html">Domov</a></li>
-            <li><a href="portfolio.html">Portfólio</a></li>
-            <li><a href="qna.html">Q&A</a></li>
-            <li><a href="kontakt.html">Kontakt</a></li>
-        </ul>
-        <a class="hamburger" id="hamburger">
-            <i class="fa fa-bars"></i>
-        </a>
-      </nav>
-    </header>
