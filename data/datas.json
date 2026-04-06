@@ -1,10 +1,9 @@
 {
   "stranky": {
-    "index": ["css/slider.css"],
-    "portfolio": ["css/portfolio.css", "css/banner.css"],
-    "qna": ["css/accordion.css", "css/banner.css"],
-    "kontakt": ["css/form.css", "css/banner.css"],
-    "thankyou": ["css/banner.css"]
+    "index": ["css/style.css", "css/slider.css"],
+    "portfolio": ["css/style.css", "css/banner.css", "css/portfolio.css"],
+    "qna": ["css/style.css", "css/banner.css", "css/accordion.css"],
+    "kontakt": ["css/style.css", "css/banner.css", "css/form.css"]
   },
   "otazky": [
     "Aké sú vaše skúsenosti s PHP?",
